@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Audio dataset
+*.wav
+wav_files/
+textgrid_files/
+segmented_audio/
+
+# Generated ML data
+*.npy
+*.npz
